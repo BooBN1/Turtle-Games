@@ -16,3 +16,5 @@ The histogram for global sales (see chart 12) shows the right skewedness of the 
 
 
 Business question 6: What are the relationships, if any, between North American, European and global sales?
+There is a strong positive and highly significant correlation between North American sales and global sales, with North American sales explaining 83.85% variability in global sales (see Chart 16). Similarly, the correlation between European sales and global sales is a highly significant value, explaining 71.85% variability in global sales (see Chart 17). The relationship between European and North American sales is weaker, explaining only 38.2% of variability. Together, European and North American sales account for 96.64% of variation in global sales.
+
